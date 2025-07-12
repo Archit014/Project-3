@@ -1,0 +1,33 @@
+textarea {
+    min-height: 400px;
+}
+
+#emails
+{
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+}
+
+#timestamp
+{
+    margin-left: 500px;
+    color:rgb(158, 154, 154);
+}
+
+#bttn
+{
+    display: inline-block;
+    background-color: #1c84ec;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 4px;
+    
+}
